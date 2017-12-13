@@ -1,2 +1,3 @@
 # svg
-svg image
+svg image (shape of brain) like constellation
+Used snap.svg library
